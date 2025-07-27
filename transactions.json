@@ -1,0 +1,59 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "amount": 150.75,
+      "date": "2025-07-20T10:30:00Z",
+      "merchant": "Supplier A",
+      "category": "Supplies",
+      "note": "Office supplies purchase",
+      "invoiceUrl": null,
+      "lastFourDigits": "1234",
+      "currency": "COP"
+    },
+    {
+      "id": "2",
+      "amount": 300.00,
+      "date": "2025-07-21T14:15:00Z",
+      "merchant": "Supplier B",
+      "category": "Services",
+      "note": "Monthly meeting",
+      "invoiceUrl": "/sample.pdf",
+      "lastFourDigits": "1254",
+      "currency": "COP"
+    },
+    {
+      "id": "3",
+      "amount": 75.50,
+      "date": "2025-07-22T09:00:00Z",
+      "merchant": "Supplier C",
+      "category": "Transport",
+      "note": "",
+      "invoiceUrl": null,
+      "lastFourDigits": "1434",
+      "currency": "COP"
+    },
+    {
+      "id": "4",
+      "amount": 1200.00,
+      "date": "2025-07-23T16:45:00Z",
+      "merchant": "Supplier D",
+      "category": "Equipment",
+      "note": "Laptop purchase for the team",
+      "invoiceUrl": "/testimg.png",
+      "lastFourDigits": "5254",
+      "currency": "COP"
+    },
+    {
+      "id": "5",
+      "amount": 45.20,
+      "date": "2025-07-24T08:20:00Z",
+      "merchant": "Supplier E",
+      "category": "Food",
+      "note": "Team breakfast",
+      "invoiceUrl": null,
+      "lastFourDigits": "1504",
+      "currency": "COP"
+    }
+  ]
+}
